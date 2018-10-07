@@ -1,0 +1,10 @@
+org.mrcp4j
+org.mrcp4j.client
+org.mrcp4j.message
+org.mrcp4j.message.header
+org.mrcp4j.message.request
+org.mrcp4j.server
+org.mrcp4j.server.delegator
+org.mrcp4j.server.mina
+org.mrcp4j.server.provider
+org.mrcp4j.util
